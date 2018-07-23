@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="common_topbar_height40">40dp</dimen>
+    <dimen name="common_textSize_default18">18sp</dimen>
+</resources>

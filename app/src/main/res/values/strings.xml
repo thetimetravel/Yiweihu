@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">智维护</string>
+    <string name="login">登录</string>
+    <string name="please_input_ps">请输入密码</string>
+    <string name="please_input_account">请输入手机号码</string>
+    <string name="please_input_uername">请输入手机号码</string>
+</resources>
